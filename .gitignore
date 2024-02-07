@@ -1,0 +1,8 @@
+.DS_STORE
+front_python/node_modules
+front_python/.angular
+front_java/node_modules
+front_java/.angular
+back_python_flask/venv
+back_python_flask/__pycache__
+back_java/target
